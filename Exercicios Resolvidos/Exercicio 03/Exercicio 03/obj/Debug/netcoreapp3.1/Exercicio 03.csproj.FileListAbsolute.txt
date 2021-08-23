@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.exe
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\bin\Debug\netcoreapp3.1\Exercicio 03.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 03\Exercicio 03\obj\Debug\netcoreapp3.1\Exercicio 03.genruntimeconfig.cache
