@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.exe
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.dll
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\bin\Debug\netcoreapp3.1\Nivelamento.pdb
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.dll
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.pdb
+D:\Projetos\CursoCompletoC-Sharp\Nivelamento\Nivelamento\obj\Debug\netcoreapp3.1\Nivelamento.genruntimeconfig.cache
