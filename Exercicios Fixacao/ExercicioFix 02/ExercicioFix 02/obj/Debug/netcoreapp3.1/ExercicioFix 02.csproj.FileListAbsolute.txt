@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.exe
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\bin\Debug\netcoreapp3.1\ExercicioFix 02.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 02\ExercicioFix 02\obj\Debug\netcoreapp3.1\ExercicioFix 02.genruntimeconfig.cache
