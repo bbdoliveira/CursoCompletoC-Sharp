@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.exe
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\bin\Debug\netcoreapp3.1\Exercicio 05.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exercicio 05\Exercicio 05\Exercicio 05\obj\Debug\netcoreapp3.1\Exercicio 05.genruntimeconfig.cache
