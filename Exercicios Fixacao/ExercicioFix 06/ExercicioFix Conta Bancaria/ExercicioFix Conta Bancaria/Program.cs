@@ -14,17 +14,26 @@ namespace ExercicioFix_Conta_Bancaria
             Console.Write("Haverá depósito inicial (s/n): ");
             char deposito = char.Parse(Console.ReadLine());
 
+            ContaBancaria conta = new ContaBancaria(numero, nome, deposito);
+
             if (deposito == 's')
             {
-                Console.Write("Entre o de depósito inicial: ");
-                double depInicial = double.Parse(Console.ReadLine());
-                Console.Write("Seu saldo inicial é: " + depInicial.ToString("F2", CultureInfo.InvariantCulture));
+                Console.Write("Entre o valor de depósito inicial: ");
+                double quantia = double.Parse(Console.ReadLine());
+                Console.Write("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(quantia).ToString("F2", CultureInfo.InvariantCulture));
             }
             else
             {
-                double saldoInicial = 0;
-                Console.Write("Seu saldo incial é: " + saldoInicial.ToString("F2", CultureInfo.InvariantCulture));
+                Console.Write("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(0.00));
             }
+
+            Console.Write("Entre um valor para saque:");
+            double saque = double.Parse(Console.ReadLine());
+
+            conta.Saque(saque);
+
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Saldo.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
