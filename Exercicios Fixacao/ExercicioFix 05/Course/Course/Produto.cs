@@ -21,27 +21,30 @@ namespace Course
             _quantidade = 5; //Somente para fins didáticos, essa linha poderia ser eliminada.
         }
 
-        public string GetNome()
+        public string Nome
         {
-            return _nome;
-        }
-
-        public void SetNome(string nome)
-        {
-            if (nome != null && nome.Length > 1)
+            get
             {
-                _nome = nome;
+                return _nome;
             }
+
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
+        }        
+      
+        public double Preco
+        {
+            get { return _preco; } 
         }
 
-        public double GetPreco()
+        public double Quantidade
         {
-            return _preco;
-        }
-
-        public double GetQuantidade()
-        {
-            return _quantidade;
+            get { return _quantidade; }
         }
 
         public double ValorTotalEmEstoque()

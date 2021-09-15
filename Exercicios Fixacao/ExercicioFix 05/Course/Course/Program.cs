@@ -14,8 +14,10 @@ namespace Course
 
             Produto p = new Produto(nome, preco);
 
+            p.Nome = "T";
+
             Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine("Dados do produto: " + p.Nome);
             Console.WriteLine();
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int qte = int.Parse(Console.ReadLine());
