@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.exe
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\bin\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Fixacao\ExercicioFix 06\ExercicioFix Conta Bancaria\ExercicioFix Conta Bancaria\obj\Debug\netcoreapp3.1\ExercicioFix Conta Bancaria.genruntimeconfig.cache
