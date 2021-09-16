@@ -20,11 +20,11 @@ namespace ExercicioFix_Conta_Bancaria
             {
                 Console.Write("Entre o valor de depósito inicial: ");
                 double quantia = double.Parse(Console.ReadLine());
-                Console.Write("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(quantia).ToString("F2", CultureInfo.InvariantCulture));
+                Console.WriteLine("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(quantia).ToString("F2", CultureInfo.InvariantCulture));
             }
             else
             {
-                Console.Write("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(0.00));
+                Console.WriteLine("Conta " + conta.Numero + " Titular: " + conta.Titular + " Saldo: $ " + conta.Deposito(0.00));
             }
 
             Console.Write("Entre um valor para saque:");
