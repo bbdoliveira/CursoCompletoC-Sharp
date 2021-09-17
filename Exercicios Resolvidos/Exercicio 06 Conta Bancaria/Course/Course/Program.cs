@@ -29,6 +29,20 @@ namespace Course
             Console.WriteLine();
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre um valor para depósito: ");
+            double quantia = double.Parse(Console.ReadLine());
+            conta.Deposito(quantia);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
+            Console.WriteLine();
+            Console.Write("Entre um valor para saque: ");
+            quantia = double.Parse(Console.ReadLine());
+            conta.Saque(quantia);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
         }
     }
 }
