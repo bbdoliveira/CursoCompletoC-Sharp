@@ -1,0 +1,14 @@
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.exe
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.deps.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.runtimeconfig.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.runtimeconfig.dev.json
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\bin\Debug\netcoreapp3.1\Couse.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.csproj.AssemblyReference.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.AssemblyInfoInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.AssemblyInfo.cs
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.csproj.CoreCompileInputs.cache
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.dll
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.pdb
+D:\Projetos\CursoCompletoC-Sharp\Exercicios Resolvidos\Exemplo Nullable\Couse\Couse\obj\Debug\netcoreapp3.1\Couse.genruntimeconfig.cache
