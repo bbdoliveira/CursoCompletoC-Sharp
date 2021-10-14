@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Resolvidos\\Exercicio 11 Matrizes\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj",
+      "projectPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Resolvidos\\Exercicio 11 Matrizes\\Course\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\bbdol\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\obj\\",
+      "outputPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Resolvidos\\Exercicio 11 Matrizes\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

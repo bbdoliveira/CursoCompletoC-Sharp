@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj": {}
+    "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 09\\Curse\\Curse\\Curse.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj": {
+    "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 09\\Curse\\Curse\\Curse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj",
-        "projectName": "Course",
-        "projectPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 09\\Curse\\Curse\\Curse.csproj",
+        "projectName": "Curse",
+        "projectPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 09\\Curse\\Curse\\Curse.csproj",
         "packagesPath": "C:\\Users\\bbdol\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 08\\Course\\Course\\obj\\",
+        "outputPath": "D:\\Projetos\\CursoCompletoC-Sharp\\Exercicios Fixacao\\ExercicioFix 09\\Curse\\Curse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
