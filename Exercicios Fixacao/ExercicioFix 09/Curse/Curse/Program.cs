@@ -6,6 +6,8 @@ namespace Curse
     {
         static void Main(string[] args)
         {
+            //M = Linha
+            //N = Coluna
             int m, n;
 
             Console.WriteLine("Digite a quantidade de linhas e colunas!");
@@ -18,31 +20,88 @@ namespace Curse
 
             int[,] mat = new int[m, n];
 
-            for (int i = 0; i < m; i++)
+            for (int lin = 0; lin < m; lin++)
             {
                 string[] values = Console.ReadLine().Split(' ');
-                for (int j = 0; j < n; j++)
+                for (int col = 0; col < n; col++)
                 {
-                    mat[i, j] = int.Parse(values[j]);
+                    mat[lin, col] = int.Parse(values[col]);
                 }
             }
             Console.Write("Digite um numero que pertence a matriz: ");
             int x = int.Parse(Console.ReadLine());
             int count = 0;
-            for (int i = 0; i < m; i++)
+            for (int lin = 0; lin < m; lin++)
             {
-                for (int j = 0; j < n; j++)
+                for (int col = 0; col < n; col++)
                 {
-                    if (mat[i,j] == x)
+                    if (mat[lin, col] == x)//Verifica se o X esta na linha.
                     {
-                        //Console.WriteLine("Position " + i + "," + j + ":");
-                        //if (i == 0 && j == 0)
+                        Console.WriteLine("Position " + lin + "," + col + ":");
+                        if (lin == 0)
+                        {
+                            col -= 1;
+                            Console.WriteLine("Left: " + mat[lin, col]);
+                            col += 2;
+                            Console.WriteLine("Right: " + mat[lin, col]);
+                            col -= 1;
+                            lin += 1;
+                            Console.WriteLine("Down: " + mat[lin, col]);
+                        }
+                        else if (lin > 0)
+                        {
+                            if (lin == m)
+                            {
+                                col -= 1;
+                                Console.WriteLine("Left: " + mat[lin, col]);
+                                col += 1;
+                                lin -= 1;
+                                Console.WriteLine("Up: " + mat[lin, col]);
+                                if (col != n)
+                                {
+                                    Console.WriteLine("Right: " + mat[lin, col]);
+                                }
+                            }
+                            else
+                            {
+                                col -= 1;
+                                Console.WriteLine("Left: " + mat[lin, col]);
+                                col += 1;
+                                lin -= 1;
+                                Console.WriteLine("Up: " + mat[lin, col]);
+                                col += 1;
+                                if (col != n)
+                                {
+                                    Console.WriteLine("Right: " + mat[lin, col]);
+                                }
+                                col -= 1;
+                                lin += 2;
+                                Console.WriteLine("Down: " + mat[lin, col]);
+                            } 
+                        }
+                        //else
                         //{
-                        //    Console.WriteLine("Right: " + mat[0,1]);
-                        //}
-                        //else if (true)
-                        //{
-
+                        //    //    j -= 1;
+                        //    //    Console.WriteLine("Left: " + mat[i, j]);
+                        //    //    j += 1;
+                        //    //    i -= 1;
+                        //    //    Console.WriteLine("Up: " + mat[i, j]);
+                        //    //    j -= 1;
+                        //    //    i += 1;
+                        //    //    Console.WriteLine("Down: " + mat[i, j]);
+                        //    col -= 1;
+                        //    Console.WriteLine("Left: " + mat[lin, col]);
+                        //    col += 1;
+                        //    lin -= 1;
+                        //    Console.WriteLine("Up: " + mat[lin, col]);
+                        //    col += 1;
+                        //    if (col != n)
+                        //    {
+                        //        Console.WriteLine("Right: " + mat[lin, col]);
+                        //    }
+                        //    col -= 1;
+                        //    lin += 2;
+                        //    Console.WriteLine("Down: " + mat[lin, col]);
                         //}
                         count++;
                     }
