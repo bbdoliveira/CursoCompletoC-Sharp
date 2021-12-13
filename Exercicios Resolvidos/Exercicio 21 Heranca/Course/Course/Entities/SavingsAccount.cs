@@ -17,5 +17,10 @@
         {
             Balance += Balance * InterestRate; 
         }
+
+        public override void Witchdraw(double amount)
+        {
+            Balance -= amount;
+        }
     }
 }
