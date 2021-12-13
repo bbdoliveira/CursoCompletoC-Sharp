@@ -20,7 +20,8 @@
 
         public override void Witchdraw(double amount)
         {
-            Balance -= amount;
+            base.Witchdraw(amount);
+            Balance -= 2.0;
         }
     }
 }
