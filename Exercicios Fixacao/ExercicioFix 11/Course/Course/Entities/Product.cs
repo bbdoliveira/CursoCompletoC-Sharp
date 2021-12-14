@@ -18,7 +18,9 @@ namespace Course.Entities
 
         public virtual string PriceTag()
         {
-            return Price.ToString("F2", CultureInfo.InvariantCulture);
+            return Name
+                + " $ "
+                + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
