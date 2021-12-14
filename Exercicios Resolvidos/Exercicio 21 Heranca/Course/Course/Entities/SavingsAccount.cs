@@ -18,7 +18,7 @@
             Balance += Balance * InterestRate; 
         }
 
-        public override void Witchdraw(double amount)
+        public override void Witchdraw(double amount) //Método de saque diferente para SavingsAccount
         {
             base.Witchdraw(amount);
             Balance -= 2.0;
