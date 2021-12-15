@@ -1,6 +1,7 @@
 ﻿using System;
-using Course.Entities;
+using System.Collections.Generic;
 using System.Globalization;
+using Course.Entities;
 
 namespace Course
 {
@@ -8,14 +9,31 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            Account acc1 = new Account(1001, "Maria", 500.0);
-            Account acc2 = new SavingsAccount(1002, "Jose", 500.0, 0.01);
+            List<Account> list = new List<Account>();
 
-            acc1.Witchdraw(10.0);
-            acc2.Witchdraw(10.0);
+            list.Add(new SavingsAccount(1001, "Alex", 500.00, 0.01));
+            list.Add(new BusinessAccount(1002, "Maria", 500.00, 0.01));
+            list.Add(new SavingsAccount(1003, "Bob", 500.00, 0.01));
+            list.Add(new BusinessAccount(1004, "Anna", 500.00, 0.01));
 
-            Console.WriteLine(acc1.Balance);
-            Console.WriteLine(acc2.Balance);
+            double sum = 0.0;
+            foreach (Account account in list)
+            {
+                sum += account.Balance;
+            }
+
+            foreach (Account account in list)
+            {
+                account.Witchdraw(10.0);
+            }
+
+            foreach (Account account in list)
+            {
+                Console.WriteLine("Updated balance for account " 
+                    + account.Number 
+                    + ": " 
+                    + account.Balance.ToString("F2", CultureInfo.InvariantCulture));
+            }
         }
     }
 }
