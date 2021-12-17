@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Course.Entities
+﻿namespace Course.Entities
 {
-    class Person //Pessoa genérica
+    abstract class Person //Pessoa genérica
     {
         public string Name { get; set; }
         public double AnnualIncome { get; set; } //Renda Anual
@@ -16,5 +10,7 @@ namespace Course.Entities
             Name = name;
             AnnualIncome = annualIncome;
         }
+
+        public abstract double Tax();
     }
 }
