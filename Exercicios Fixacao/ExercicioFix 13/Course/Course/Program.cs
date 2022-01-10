@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System.Globalization;
+using Course.Entities;
 
 Console.Write("Enter file full path (Ex: C:NomeDoArquivo.csv): ");
 string sourceFilePath = Console.ReadLine();
@@ -22,9 +23,9 @@ try
             double price = double.Parse(fields[1], System.Globalization.NumberStyles.Currency);
             int quantity = int.Parse(fields[2]);
 
-            Course.Entities.Product prod = new Course.Entities.Product(name, price, quantity);
+            Product prod = new Product(name, price, quantity);
 
-            sw.WriteLine(prod.Name + ", " + prod.Total());
+            sw.WriteLine(prod.Name + ", " + prod.Total().ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
