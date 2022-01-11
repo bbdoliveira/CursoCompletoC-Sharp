@@ -1,10 +1,10 @@
 ﻿namespace Course.Services
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {
-            if (amount <= 100.00)
+            if (amount <= 100.0)
             {
                 return amount * 0.2;
             }
