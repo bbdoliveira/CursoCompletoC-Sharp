@@ -14,7 +14,7 @@ try
             int qtdVotes = int.Parse(line[1]);
             if (votes.ContainsKey(name))
             {
-                votes[name] = votes[name] + qtdVotes;
+                votes[name] = votes[name] + qtdVotes; //Soma um valor dentro do Dictionary
             }
             else
             {
