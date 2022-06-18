@@ -1,7 +1,6 @@
 ﻿using Course.Entites;
 
     List<Product> list = new List<Product>();
-    //Product ProductTest = new();
 
     list.Add(new Product("Tv", 900.00));
     list.Add(new Product("Mouse", 50.00));
