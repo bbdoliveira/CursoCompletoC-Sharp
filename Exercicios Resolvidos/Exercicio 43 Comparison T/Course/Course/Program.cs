@@ -15,7 +15,7 @@
     }
 
 
-public static bool ProductTest(Product p)
+static bool ProductTest(Product p)
 {
     return p.Price >= 100.00;
 }
